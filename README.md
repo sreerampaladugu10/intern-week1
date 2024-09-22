@@ -4,7 +4,7 @@ The vast scope of the given DSA topics, coupled with the tight deadline, present
 
 I documented what I had learned and thought about using comments within my code.
 
-#intern-week 2
+# intern-week 2
 
 Challenges faced:
 Dynamic Programming (DP) Logic: Grasping the logic behind DP was difficult. Understanding the relationship between subproblems and building a solution iteratively or recursively was difficult.
