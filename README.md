@@ -10,6 +10,7 @@ Challenges faced:
 Dynamic Programming (DP) Logic: Grasping the logic behind DP was difficult. Understanding the relationship between subproblems and building a solution iteratively or recursively was difficult.
 Identifying Edge Cases: Ensuring my leet code solutions handle edge cases properly was difficult as I could not identify many edge cases, which was challenging.
 
-#intern-week 3
+
+# intern-week 3
 
 The intricacies of system design, exploring key components like APIs, databases, load balancing, and caching. We've also discussed the importance of considering factors such as scalability, reliability, and security when building distributed systems. While the field of system design offers immense possibilities, it also presents challenges like balancing performance with cost, managing complexity, and ensuring data consistency in distributed environments.
